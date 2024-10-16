@@ -45,7 +45,7 @@ Estou entusiasmada para aplicar minhas competências e conhecimentos na tecnolog
   ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
- ***Me econtre nas redes!*** :purple_heart:
+ ***Me encontre nas redes!*** :purple_heart:
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heloisacrepaldizen/)
   
