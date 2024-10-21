@@ -28,6 +28,7 @@ Estou entusiasmada para aplicar minhas competências e conhecimentos na tecnolog
    - 
    ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
    ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
    ***Banco de Dados estudados e usados até o momento:***
    -
