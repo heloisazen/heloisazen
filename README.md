@@ -1,5 +1,5 @@
 # ***Hello World!*** :wave:
-*Meu nome é Heloisa, tenho 27 anos e estou atualmente cursando minha segunda graduação em Análise e Desenvolvimento de Sistemas pela
+*Meu nome é Heloisa, tenho 28 anos e estou atualmente cursando minha segunda graduação em Análise e Desenvolvimento de Sistemas pela
 Faculdade Descomplica. Minha formação inicial é em Farmácia, com graduação pela Universidade de São Paulo (USP) em 2021, onde adquiri uma sólida base em conhecimentos 
 científicos e analíticos. Durante minha trajetória na área farmacêutica, desenvolvi habilidades essenciais em pesquisa, 
 análise de dados e resolução de problemas complexos. Agora, estou em processo de mudança de carreira.*
